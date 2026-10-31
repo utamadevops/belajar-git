@@ -25,10 +25,7 @@ case $jawaban_user in
 	top -bn1 | head -n 5
 	;;
 	5)
-	echo " === HARGA SERVER === "
-	echo 1."VPS kecil - 50rb/bulan"
-	echo 2."VPS gede - 150rb/bulan"
-	echo 3."domain.com - 120rb/tahun"
+	cat harga.txt
 	;;
 	0)
 	echo "Bye!"
