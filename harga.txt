@@ -1,4 +1,5 @@
 === HARGA SERVER ===
 1. VPS kecil - 65rb/bulan
+garansi: 30 hari uang kembali
 2. VPS gede - 150rb/bulan
 3. domain.com - 120rb/tahun
