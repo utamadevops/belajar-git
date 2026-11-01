@@ -4,3 +4,4 @@ garansi: 30 hari uang kembali
 promo: beli 2 gratis 1
 2. VPS gede - 150rb/bulan
 3. domain.com - 120rb/tahun
+4. VPS super - 300rb/bulan 
