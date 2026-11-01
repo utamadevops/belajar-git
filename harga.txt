@@ -6,3 +6,4 @@ promo: beli 2 gratis 1
 3. domain.com - 120rb/tahun
 4. VPS super - 300rb/bulan 
 5. domain .id - 100rb/bulan
+6. vps hemat - 40rb/bulan
